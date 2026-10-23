@@ -1,20 +1,37 @@
-# Hi there, I'm Yasmine Menacer 👋
+Hi there, I'm Yasmine Menacer 👋
 
-I am a passionate **Computer Science Student** (2nd year License) based in Annaba, Algeria. I am dedicated to building a solid foundation in software development and deeply exploring the world of **Cybersecurity**.
+🎓 Computer Science Student | Aspiring Software Engineer
 
-### 🛡️ About Me:
-- 🎓 Currently studying Informatique at **Badji Mokhtar Annaba University (UBMA)**.
-- 🎯 Focused on mastering **Network Fundamentals**, **Linux systems**, and **Ethical Hacking**.
-- 🏆 Successfully completed the **Cisco Introduction to Cybersecurity** certification.
-- 🎮 Actively training and solving practical deployment labs on **TryHackMe**.
+I'm a Computer Science student at Badji Mokhtar Annaba University, Algeria. I'm ambitious, motivated, and passionate about learning, building real projects, and developing my skills to create better career opportunities in Software Engineering.
 
-### 💻 Tech Stack & Tools I'm Building:
-- **Languages:** C, Python (Active learning)
-- **OS & Platforms:** Linux, Cisco Networking Academy, TryHackMe
+💻 What I'm Learning
 
-### 🎯 Current Goals (Before December 2026):
-- [ ] Complete the practical Pre-Security path on TryHackMe.
-- [ ] Build and publish my first automation tools using Python.
-- [ ] Maintain an excellent academic record at university.
+- C
+- Python
+- Java
+- Assembly
 
-*"Debugging my way into Cyber Security, one room at a time."*
+These programming languages are part of my university studies, and I'm working on strengthening my understanding through practice and personal projects.
+
+🚀 My Goals
+
+- Build and publish personal software projects on GitHub before December 2026.
+- Improve my programming and problem-solving skills.
+- Improve my English and take an English proficiency test.
+- Build a strong portfolio that demonstrates my abilities.
+- Prepare for future internships and job opportunities.
+- Keep learning, growing, and developing as a Software Engineer.
+
+🛠️ Tools & Technologies
+
+- Programming: C, Python, Java, Assembly
+- Version Control: Git & GitHub
+- Currently developing: Programming fundamentals and practical software projects
+
+🌱 A Little About Me
+
+I'm an ambitious student who believes in continuous learning, consistency, and hard work. My goal is to turn what I learn at university into practical skills, meaningful projects, and opportunities for professional growth.
+
+I'm always ready to learn something new, challenge myself, and take another step toward my goals.
+
+Learning today, building tomorrow. 🚀
